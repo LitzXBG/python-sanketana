@@ -1,0 +1,20 @@
+Git Commands
+
+git init
+git add <filename>
+git add . (adds all unstaged files)
+git commit -m "commit message"
+git branch -M main
+git remote add origin https://github.com/LitzXBG/python-sanketana.git
+git push -u orgin main7
+
+
+
+Shell Commands
+pwd - present working directory
+ls - list
+touch - create an empty file
+cd - change directory
+
+
+
