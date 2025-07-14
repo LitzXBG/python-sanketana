@@ -1,0 +1,12 @@
+
+    Alice
+    Bob
+    Charlie
+    David
+    Eve
+    Sample Output:
+    Eve
+    David
+    Charlie
+    Bob
+    Alice
