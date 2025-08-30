@@ -17,4 +17,9 @@ touch - create an empty file
 cd - change directory
 
 
+if snake_rect.colliderect(apple):
+    apple_position_x = random.randint(8,800)
+    apple_position_y  = random.randint(8,600)
 
+apple_position_x = random.randint(8,800)
+apple_position_y  = random.randint(8,600)

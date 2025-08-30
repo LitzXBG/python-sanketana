@@ -1,0 +1,2 @@
+Python is fun. It is easy to learn!
+Let's write some code.
